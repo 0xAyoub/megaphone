@@ -15,5 +15,5 @@ La Stack technique:
 - Node.js (Moteur conversationnel)
 - Stripe (Paiement)
 
-Voici la landing page: https://autoph.one/
+Voici la landing page: https://autoph.one/ <br>
 Voici l'app: https://app.autoph.one/
