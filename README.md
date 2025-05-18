@@ -1,6 +1,6 @@
 MegaPhone est un SaaS B2B que j'ai mis en production qui permet aux entreprises d'automatiser leurs appels sortants de collection de dettes et d'impayés.
 
-L'utilisateur peut créer un compte, importer une liste de débiteurs, créer une séquence d'appels IA qui se lanceront parallèlement, comprendre la situation de chaque débiteurs au cas par cas, et envoyer un SMS avec le lien de paiement dès que le débiteur montre l'envie qu'il souhaite payer.
+L'utilisateur peut créer un compte, importer une liste de débiteurs, créer une séquence d'appels IA qui se lanceront parallèlement, comprendre la situation de chaque débiteurs au cas par cas, et envoyer un SMS avec le lien de paiement dès que le débiteur montre l'envie qu'il souhaite payer, et analyser chaque conversations au peigne-fin.
 
 J'ai dû tester plusieurs technologies et infrastructures de Text-to-Speech et de Speech-to-text pour optimiser au maximum la latence et le réalisme humain de l'aspect conversationnel vocal.
 
