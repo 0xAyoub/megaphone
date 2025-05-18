@@ -1,0 +1,50 @@
+{
+  "name": "answer",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@aws-sdk/client-transcribe-streaming": "^3.600.0",
+    "@google-cloud/speech": "^6.6.0",
+    "@stripe/stripe-js": "^5.6.0",
+    "@supabase/auth-helpers-nextjs": "^0.10.0",
+    "@supabase/supabase-js": "^2.44.3",
+    "assemblyai": "^4.4.1",
+    "aws-sdk": "^2.1648.0",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "elevenlabs": "^0.8.1",
+    "express": "^4.19.2",
+    "groq-sdk": "^0.5.0",
+    "http": "^0.0.1-security",
+    "micro": "^10.0.1",
+    "next": "^15.1.6",
+    "ngrok": "^5.0.0-beta.2",
+    "node-wav": "^0.0.2",
+    "openai": "^4.57.0",
+    "playht": "^0.9.8",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1",
+    "react-toastify": "^10.0.5",
+    "recharts": "^2.15.0",
+    "speechmatics": "^4.0.0",
+    "stripe": "^17.6.0",
+    "twilio": "^5.0.4",
+    "ws": "^8.17.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4"
+  },
+  "engines": {
+    "node": "22.4.1"
+  }
+}
